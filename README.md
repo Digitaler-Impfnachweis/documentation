@@ -7,8 +7,8 @@
 <hr />
 <p align="center">
     <a href="#about-this-project">About this Project</a> •
-    <a href="#who-we-are">Content</a> •
-    <a href="#licensing">Licensing</a> •
+    <a href="#content">Content</a> •
+    <a href="#copyright">Copyright</a> •
     <a href="#how-to-contribute">How to Contribute</a>
 </p>
 <hr />
@@ -17,21 +17,29 @@
 
 The Digitaler Impfnachweis is the German solution for the [COVID-19 vaccination certificate]((https://www.bundesgesundheitsministerium.de/coronavirus/faq-covid-19-impfung/faq-digitaler-impfnachweis.html)).
 The [German Federal Ministry of Health](https://www.bundesgesundheitsministerium.de/en/en.html) assigned [IBM](https://www.ibm.com/) and  [Ubirch](https://ubirch.de/) to build a secure and data private solution.
-The Digitaler Impfnachweis is compliant to the [European Digital Green Certificate (DGC)](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/covid-19-digital-green-certificates_en) proposed by the European Commission and relies on the works of the [eHealth Network (eHN)](https://ec.europa.eu/health/ehealth/covid-19_en).
 
 ## Content
 
+The Digitaler Impfnachweis is compliant to the [European Digital Green Certificate (DGC)](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/covid-19-digital-green-certificates_en) proposed by the European Commission and relies on the works of the [eHealth Network (eHN)](https://ec.europa.eu/health/ehealth/covid-19_en).
 This repository contains the high-level architecture, developer documentation and introductory content.
 
-## Licensing
+## Copyright
 
-Copyright (c) 2020 IBM and Ubirch.
+```
+Copyright (c) 2021 2020 IBM and ubirch GmbH
 
-Licensed under the **Apache License, Version 2.0** (the "License"); you may not use this file except in compliance with the License.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-You may obtain a copy of the License at https://www.apache.org/licenses/LICENSE-2.0.
+    http://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the [LICENSE](./LICENSE) for the specific language governing permissions and limitations under the License.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the [LICENSE](./LICENSE) for the specific language governing permissions and
+limitations under the License.
+```
 
 ## How to Contribute
 
