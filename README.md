@@ -27,7 +27,8 @@ This repository contains the high-level architecture, developer documentation an
 ## Copyright
 
 ```
-Copyright (c) 2021 2020 IBM and ubirch GmbH
+Copyright (C) 2021 IBM Deutschland GmbH 
+Copyright (c) 2021 ubirch GmbH
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
