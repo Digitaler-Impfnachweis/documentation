@@ -9,7 +9,6 @@
     <a href="#about-this-project">About this Project</a> •
     <a href="#content">Content</a> •
     <a href="#copyright">Copyright</a> •
-    <a href="#how-to-contribute">How to Contribute</a>
 </p>
 <hr />
 
