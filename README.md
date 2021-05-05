@@ -41,6 +41,3 @@ See the [LICENSE](./LICENSE) for the specific language governing permissions and
 limitations under the License.
 ```
 
-## How to Contribute
-
-Please see the [CONTRIBUTING.md](CONTRIBUTING.md) for guidance on on how to contribute. Please see the details in our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). All contributors must abide by the code of conduct.
