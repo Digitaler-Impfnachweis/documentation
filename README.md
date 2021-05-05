@@ -8,7 +8,7 @@
 <p align="center">
     <a href="#about-this-project">About this Project</a> •
     <a href="#content">Content</a> •
-    <a href="#copyright">Copyright</a> •
+    <a href="#copyright">Copyright</a> 
 </p>
 <hr />
 
