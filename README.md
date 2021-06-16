@@ -22,7 +22,9 @@ The [German Federal Ministry of Health](https://www.bundesgesundheitsministerium
 The Digitaler Impfnachweis is compliant to the [European Digital Green Certificate (DGC)](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/covid-19-digital-green-certificates_en) proposed by the European Commission and relies on the works of the [eHealth Network (eHN)](https://ec.europa.eu/health/ehealth/covid-19_en).
 This repository contains the high-level architecture, developer documentation and introductory content.
 
-- [Technical OpenAPI Specifications](https://github.com/Digitaler-Impfnachweis/certification-apis)
+- [Technical OpenAPI specifications](https://github.com/Digitaler-Impfnachweis/certification-apis)
+- [Android app development](https://github.com/Digitaler-Impfnachweis/covpass-android)
+- [Textual content for Android and iOS apps](https://github.com/Digitaler-Impfnachweis/covpass-apps-i18n)
 
 ## Copyright
 
